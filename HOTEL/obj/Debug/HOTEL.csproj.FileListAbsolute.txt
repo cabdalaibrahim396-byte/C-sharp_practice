@@ -1,0 +1,11 @@
+C:\Users\cabda\Desktop\preject1\HOTEL\bin\Debug\HOTEL.exe.config
+C:\Users\cabda\Desktop\preject1\HOTEL\bin\Debug\HOTEL.exe
+C:\Users\cabda\Desktop\preject1\HOTEL\bin\Debug\HOTEL.pdb
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.csproj.AssemblyReference.cache
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.Form1.resources
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.Properties.Resources.resources
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.csproj.GenerateResource.cache
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.csproj.CoreCompileInputs.cache
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.exe
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.pdb
+C:\Users\cabda\Desktop\preject1\HOTEL\obj\Debug\HOTEL.exe.config
