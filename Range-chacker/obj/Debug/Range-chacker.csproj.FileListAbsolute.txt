@@ -1,0 +1,11 @@
+C:\Users\cabda\Desktop\preject1\Range-chacker\bin\Debug\Range-chacker.exe.config
+C:\Users\cabda\Desktop\preject1\Range-chacker\bin\Debug\Range-chacker.exe
+C:\Users\cabda\Desktop\preject1\Range-chacker\bin\Debug\Range-chacker.pdb
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range-chacker.csproj.AssemblyReference.cache
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range_chacker.Form1.resources
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range_chacker.Properties.Resources.resources
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range-chacker.csproj.GenerateResource.cache
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range-chacker.csproj.CoreCompileInputs.cache
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range-chacker.exe
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range-chacker.pdb
+C:\Users\cabda\Desktop\preject1\Range-chacker\obj\Debug\Range-chacker.exe.config

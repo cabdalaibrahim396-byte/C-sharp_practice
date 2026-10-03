@@ -1,0 +1,11 @@
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\bin\Debug\payrol-with-overtime.exe.config
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\bin\Debug\payrol-with-overtime.exe
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\bin\Debug\payrol-with-overtime.pdb
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol-with-overtime.csproj.AssemblyReference.cache
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol_with_overtime.Form1.resources
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol_with_overtime.Properties.Resources.resources
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol-with-overtime.csproj.GenerateResource.cache
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol-with-overtime.csproj.CoreCompileInputs.cache
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol-with-overtime.exe
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol-with-overtime.pdb
+C:\Users\cabda\Desktop\preject1\payrol-with-overtime\obj\Debug\payrol-with-overtime.exe.config

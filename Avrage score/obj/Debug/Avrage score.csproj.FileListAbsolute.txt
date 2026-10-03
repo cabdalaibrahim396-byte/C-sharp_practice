@@ -1,0 +1,11 @@
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage score.csproj.AssemblyReference.cache
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage_score.Form1.resources
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage_score.Properties.Resources.resources
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage score.csproj.GenerateResource.cache
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage score.csproj.CoreCompileInputs.cache
+C:\Users\cabda\Desktop\preject1\Avrage score\bin\Debug\Avrage score.exe.config
+C:\Users\cabda\Desktop\preject1\Avrage score\bin\Debug\Avrage score.exe
+C:\Users\cabda\Desktop\preject1\Avrage score\bin\Debug\Avrage score.pdb
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage score.exe
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage score.pdb
+C:\Users\cabda\Desktop\preject1\Avrage score\obj\Debug\Avrage score.exe.config
